@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- 🎨 Custom Figma-Style Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/7v1NqYh/figma-banner-uiux-designer.png" alt="Arij - UI/UX Designer Banner" width="800">
+</p>
 
-<!--
-**arij-haj-hmida/arij-haj-hmida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎨 Hello, I'm Arij  
 
-Here are some ideas to get you started:
+**UI/UX Designer | Creative Thinker | Building Experiences That Speak Human 💬**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌷 About Me  
+Hey, I’m **Arij** — a passionate **UI/UX designer in the making** with a love for turning ideas into beautiful, intuitive digital experiences.  
+My background in **Business Computing** gives me a strong understanding of both design *and* logic — I design with empathy, but I think like a developer.  
+
+I’m on a journey to craft interfaces that don’t just look good, but *feel right*. ✨  
+
+![Designing](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+
+---
+
+## 💡 My Design Philosophy  
+> “Design is not just what it looks like — it’s how it *feels* when people use it.”  
+
+I believe great design starts with understanding people — their needs, frustrations, and goals.  
+My mission is to build **meaningful digital experiences** through research, creativity, and technology.  
+
+---
+
+## 🧠 Tech Stack & Design Toolbox  
+
+**🎨 Design & Prototyping:**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+**💻 Front-End Development:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**🧩 Tools I Use:**  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
+
+---
+
+## 💬 What I’m Focusing On  
+- 🪄 Designing **human-centered interfaces** and seamless user journeys  
+- 🌈 Learning **UI/UX best practices**
+- 🧩 Building a **portfolio of real-world projects**  
+
+---
+
+## 📊 GitHub Insights  
+
+![Arij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+
+---
+
+## 🌈 Fun Facts  
+- 🎨 I get lost for hours in Figma — and love every second.  
+- 💡 I sketch ideas before I design — paper is still my best wireframing tool.  
+- ☕ Coffee + good music = perfect design flow.  
+- 💫 Dream: To become a **creative UI/UX designer** who blends aesthetics with intelligence.  
+
+---
+
+## 🌐 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arijhajhmida54@gmail.com)
+
