@@ -16,6 +16,7 @@ My background in **Business Computing** gives me a strong understanding of both 
 I’m on a journey to craft interfaces that don’t just look good, but *feel right*. ✨  
 
 ![Coding Woman](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer_girl.gif)
+
 ---
 
 ## 💡 My Design Philosophy  
@@ -29,10 +30,12 @@ My mission is to build **meaningful digital experiences** through research, crea
 ## 🧠 Tech Stack & Design Toolbox  
 
 **🎨 Design & Prototyping:**  
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 **Programming Languages**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -41,6 +44,7 @@ My mission is to build **meaningful digital experiences** through research, crea
 ---
 
 **Databases & Tools**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
