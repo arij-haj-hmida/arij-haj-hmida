@@ -64,8 +64,8 @@ My mission is to build **meaningful digital experiences** through research, crea
 
 ## 📊 GitHub Insights  
 
-![Arij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![Arij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arij-haj-hmida&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arij-haj-hmida&layout=compact&theme=tokyonight)
 
 ---
 
